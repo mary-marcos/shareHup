@@ -8,6 +8,7 @@ A new Flutter project.
 ## Screenshots
 
 Here are some screenshots of the Share Meal app:
+
 <img src="screenshots/1.jpeg" alt="Screenshot 1" width="200">
 <img src="screenshots/2.jpeg" alt="Screenshot 1" width="200">
 <img src="screenshots/3.jpeg" alt="Screenshot 1" width="200">
