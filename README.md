@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Screenshots
 
 Here are some screenshots of the Share Meal app:
-
+<img src="screenshots/1.jpeg" alt="Screenshot 1" width="200">
 ![Screenshot 1](screenshots/1.jpeg)
 
 ![Screenshot 2](screenshots/2.jpeg)
