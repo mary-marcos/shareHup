@@ -1,4 +1,4 @@
-# share_meal
+# ShareHup
 
 A new Flutter project.
 
