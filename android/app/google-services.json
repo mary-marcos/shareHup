@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6716218365",
+    "project_id": "sharehub-566f5",
+    "storage_bucket": "sharehub-566f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6716218365:android:9e42012fbf85f531261794",
+        "android_client_info": {
+          "package_name": "com.example.share_meal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOz9Ru6wWp579QPQIvpWEV4nCeHYehQPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
